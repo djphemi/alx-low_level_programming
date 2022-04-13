@@ -6,7 +6,7 @@
 *.o
 
 # Ignore main files
-*-main.c
+#*-main.c
 
 # Ignore executable files
 *.out
